@@ -1,2 +1,1 @@
-# C--Compiler-for-SPIM
-C- compiler for SPIM machine
+# C- Compiler for SPIM machine
